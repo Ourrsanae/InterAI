@@ -1,0 +1,7 @@
+Flask
+pandas
+flask-cors
+python-dotenv
+google-api-python-client
+plotly
+

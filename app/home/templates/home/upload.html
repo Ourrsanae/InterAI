@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block content %}
+<form action="/upload" method="POST" enctype="multipart/form-data">
+    <div class="site-header-logo">
+        <h1 class="text-center">
+            Upload your file
+        </h1>
+    </div>
+    <div class="row p-4">
+        <div class="card m-auto" style="width: 90%;"data-aos="fade-left" >
+            <div class="card-body">
+                <label for="file">File:</label>
+                <input type="file" id="file" name="file" required><br/>
+                <div class="text-end mt-2">
+                    <button type="submit" class="btn btn-primary">Upload</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+{% endblock %}
