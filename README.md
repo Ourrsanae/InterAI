@@ -81,6 +81,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ![image](https://github.com/user-attachments/assets/4041f0b7-7fee-46a4-82a4-00ce2028a058)
 ![image](https://github.com/user-attachments/assets/643efab2-2c55-4e12-81b7-797fdb82e1b2)
 ![image](https://github.com/user-attachments/assets/5ddf562e-45bd-48bd-8901-23c95f772e2d)
-![image](https://github.com/user-attachments/assets/c82c5dd1-0a92-4dfb-a248-ea369b651882)
-![image](https://github.com/user-attachments/assets/54351171-4d45-4876-94b6-5786a43d7707)
+![image](https://github.com/user-attachments/assets/40ec9393-c0fa-4c2a-9177-db06507e53a3)
+![image](https://github.com/user-attachments/assets/56a6e482-3712-47c9-827a-d90045d301c1)
 
